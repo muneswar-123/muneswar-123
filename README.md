@@ -1,15 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muneswara Reddy Bhogala</h1>
 <h3 align="center">A passionate Java developer/ SQL Developer from India</h3>
 
-<p align="center">
-  <img src="https://drive.google.com/uc?id=19qrtLtIUn6VBseYDVwalhSB2RWW035uZ" 
-     alt="Round Image" 
-     width="200" 
-     style="border-radius: 50%; display: block; margin: auto;">
-
-
-</p>
-
 - 🌱 I’m currently learning **React Js**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://muneswar-123.github.io/Portfolio.github.io/)
