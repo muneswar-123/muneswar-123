@@ -2,10 +2,11 @@
 <h3 align="center">A passionate Java developer/ SQL Developer from India</h3>
 
 <p align="center">
-  <img src="https://drive.google.com/uc?id=1vuaaKkXPZaTIOA20Y_LPwhpnOmZgOjsQ" 
-     alt="Image Description" 
+  <img src="https://drive.google.com/uc?id=19qrtLtIUn6VBseYDVwalhSB2RWW035uZ" 
+     alt="Round Image" 
      width="200" 
      style="border-radius: 50%; display: block; margin: auto;">
+
 
 </p>
 
