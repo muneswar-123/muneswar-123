@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **React Js**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://muneswar-123.github.io/Portfolio.github.io/)
+- 👨‍💻 All of my projects are available at repositories....
 
-- 💬 Ask me about **Programming languages Java, SQL, JavaScript - Frontend technologies HTML, CSS, ReactJS**
+- 💬 Ask me about **Programming languages Java, SQL, JavaScript - Frontend technologies HTML, CSS, ReactJS - Testing Manual & Automation, Selenium with Java, SDLC, STLC**
 
 - 📫 How to reach me **bhogalamuneswarreddy@gmail.com**
 
-- 📄 Know about my experiences visit my Linked in Profile..
+- 📄 Know about my experiences visit my Linked in Profile...
 
 - ⚡ **I think I am funny 😄**
 
