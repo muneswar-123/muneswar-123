@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **bhogalamuneswarreddy@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1r1uxbSJmUg9172k9u8_fCVaqgdopS6xK/view?usp=drive_link)
+- 📄 Know about my experiences visit my Linked in Profile..
 
 - ⚡ **I think I am funny 😄**
 
