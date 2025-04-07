@@ -5,7 +5,10 @@
 
 - 👨‍💻 All of my projects are available at repositories....
 
-- 💬 Ask me about **Programming languages Java, SQL, JavaScript - Frontend technologies HTML, CSS, ReactJS - Testing Manual & Automation, Selenium with Java, SDLC, STLC**
+- 💬 Ask me about **-Languages: Java, J2EE, SQL
+-                    -Frontend technologies: HTML, CSS, JavaScript, ReactJS
+-                    -Backend technologies: JDBC, Hibernate, Spring Boot 
+-                    -Testing: Manual & Automation, Selenium with Java, SDLC, STLC**
 
 - 📫 How to reach me **bhogalamuneswarreddy@gmail.com**
 
